@@ -1,4 +1,4 @@
 print('heloo')
 for 
- git reset
- git revert
+ revert second time
+
